@@ -1,4 +1,4 @@
-# W1302PreControlBinding
+# W1401PreControlBinding
 GUI프로그래밍 14주차 01
 
 # CoLab
